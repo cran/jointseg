@@ -1,6 +1,6 @@
-14f42a112c063dccb541859b2d25d961 *DESCRIPTION
+af2a9166dadd91e0d8fede20f48e71d8 *DESCRIPTION
 df06ed7b61c5ae0468472fad8dcf7c8a *NAMESPACE
-a5903b2716465e68a034a2a8227f123a *NEWS.md
+dcdd8549be9759b8382ee8cb9a6d4783 *NEWS.md
 f6c6a553cdfb905a4c7076b3b5c02a86 *R/ERMadjustment.R
 ebca0d6e9ef09126bddb3a4b52fc3ad6 *R/PSSeg.R
 55b0ffde02fde93df56880a410c20de3 *R/anotherBkp.R
@@ -37,10 +37,10 @@ b185817864064b6cd24b22949ae2504e *R/segmentByRBS.R
 27245ae4f9efc48f98fb520cb0cb7999 *inst/CITATION
 0d6a071139f0959764d83888a709015d *inst/doc/PSSeg.R
 358d27acb4b501c5bd1ef81123c4a99c *inst/doc/PSSeg.Rmd
-00371f361168a5d80894aa171a5f16f5 *inst/doc/PSSeg.html
+565d8c03ba1c841aa27aeaf87ca80003 *inst/doc/PSSeg.html
 bc274366df0db68a5d3a7476bddd2fc4 *inst/doc/dataGeneration.R
 0a83cb81f94aff804cf1cfe93442748f *inst/doc/dataGeneration.Rmd
-2e72cf69dd3ef8c6d62853feb9ebf4a3 *inst/doc/dataGeneration.html
+f573fa89f27cec678449e10ec278d647 *inst/doc/dataGeneration.html
 5eb60346221e1a0e64be593e79edd3b9 *inst/eval/GSE11976/00.setup.R
 33d3f122044f34134f4e42a85590b9db *inst/eval/GSE11976/01.createDataSets.R
 ddbcea24ceb0a98cb7551fd9bf7e82b2 *inst/eval/GSE11976/02a.RBS+DP.R
@@ -134,7 +134,7 @@ b684e32fc33b71423978cd55708f9bb8 *src/colibri.cc
 c6bfee33deaa7cacb5bc42ce4f5fde53 *src/colibri.h
 009cef1093df2c7c958e15a18f636d3f *src/init.c
 c3e06c1e3aaea05d6de5f814b8945659 *src/liste.cc
-fb8abb9308280afd18ce284f0e391e54 *src/liste.h
+3e521b0bf8dded030915434a9c06cbad *src/liste.h
 9800db202c92002b7c60e2d88263e961 *src/polynome2.h
 76dfff03c96ae29920aeb7aebfb9ad2f *tests/testthat.R
 10284274d2505ac565ec6391d67c17c9 *tests/testthat/test_getCopyNumberDataByResampling.R
