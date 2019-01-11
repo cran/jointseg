@@ -1,7 +1,7 @@
 Package: jointseg
 Type: Package
 Title: Joint Segmentation of Multivariate (Copy Number) Signals
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: c(person("Morgane", "Pierre-Jean", role = c("aut", "cre"), 
                      email = "mpierrejean.pro@gmail.com"),
               person("Pierre", "Neuvial", role = c("aut"),
@@ -20,13 +20,13 @@ Suggests: PSCBS, R.cache, digest, changepoint (>= 1.0.2), knitr,
         rmarkdown, testthat
 VignetteBuilder: knitr
 URL: https://github.com/mpierrejean/jointseg
-RoxygenNote: 6.0.1.9000
+RoxygenNote: 6.1.1
 BugReports: https://github.com/mpierrejean/jointseg/issues
 NeedsCompilation: yes
-Packaged: 2017-11-28 08:27:41 UTC; mpierre-jean
+Packaged: 2019-01-11 10:58:39 UTC; mpierre-jean
 Author: Morgane Pierre-Jean [aut, cre],
   Pierre Neuvial [aut],
   Guillem Rigaill [aut]
 Maintainer: Morgane Pierre-Jean <mpierrejean.pro@gmail.com>
 Repository: CRAN
-Date/Publication: 2017-11-28 13:56:53 UTC
+Date/Publication: 2019-01-11 12:30:03 UTC
